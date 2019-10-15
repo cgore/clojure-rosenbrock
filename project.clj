@@ -1,4 +1,4 @@
-(defproject com.cgore/rosenbrock "0.1.0-SNAPSHOT"
+(defproject com.cgore/rosenbrock "0.1.0"
   :description "A Clojure library for implementing the Rosenbrock function."
   :url "https://github.com/cgore/clojure-rosenbrock"
   :scm {:name "git"
