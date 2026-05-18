@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Rosenbrock_function
 Add the following to your `project.clj`:
 
 ```clojure
-[com.cgore/rosenbrock "0.1.0"]
+[com.cgore/rosenbrock "0.1.1"]
 ```
 
 And then in your actual code:
@@ -41,7 +41,7 @@ And then in your actual code:
 
 ## License
 
-Copyright © 2019 Christopher Mark Gore, Soli Deo Gloria, all rights reserved.
+Copyright © 2019, 2026 Christopher Mark Gore, Soli Deo Gloria, all rights reserved.
 
 This program and the accompanying materials are made available under the
 terms of the Apache License Version 2.0 which is available at
