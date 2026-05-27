@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Rosenbrock_function
 Add the following to your `project.clj`:
 
 ```clojure
-[com.cgore/rosenbrock "0.1.1"]
+[com.cgore/rosenbrock "0.1.2"]
 ```
 
 And then in your actual code:
